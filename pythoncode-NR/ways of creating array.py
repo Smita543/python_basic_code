@@ -1,0 +1,6 @@
+# 1 array()
+# 2 lispace()
+# 3 logspace()
+# 4 arange()
+# 5 zeros()
+# 6 ones()
